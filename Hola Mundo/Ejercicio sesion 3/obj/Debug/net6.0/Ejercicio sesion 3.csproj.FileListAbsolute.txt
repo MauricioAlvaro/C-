@@ -1,0 +1,15 @@
+C:\Users\Mau\source\repos\Hola Mundo\Ejercicio sesion 3\obj\Debug\net6.0\Ejercicio sesion 3.csproj.AssemblyReference.cache
+C:\Users\Mau\source\repos\Hola Mundo\Ejercicio sesion 3\obj\Debug\net6.0\Ejercicio sesion 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mau\source\repos\Hola Mundo\Ejercicio sesion 3\obj\Debug\net6.0\Ejercicio sesion 3.AssemblyInfoInputs.cache
+C:\Users\Mau\source\repos\Hola Mundo\Ejercicio sesion 3\obj\Debug\net6.0\Ejercicio sesion 3.AssemblyInfo.cs
+C:\Users\Mau\source\repos\Hola Mundo\Ejercicio sesion 3\obj\Debug\net6.0\Ejercicio sesion 3.csproj.CoreCompileInputs.cache
+C:\Users\Mau\source\repos\Hola Mundo\Ejercicio sesion 3\bin\Debug\net6.0\Ejercicio sesion 3.exe
+C:\Users\Mau\source\repos\Hola Mundo\Ejercicio sesion 3\bin\Debug\net6.0\Ejercicio sesion 3.deps.json
+C:\Users\Mau\source\repos\Hola Mundo\Ejercicio sesion 3\bin\Debug\net6.0\Ejercicio sesion 3.runtimeconfig.json
+C:\Users\Mau\source\repos\Hola Mundo\Ejercicio sesion 3\bin\Debug\net6.0\Ejercicio sesion 3.dll
+C:\Users\Mau\source\repos\Hola Mundo\Ejercicio sesion 3\bin\Debug\net6.0\Ejercicio sesion 3.pdb
+C:\Users\Mau\source\repos\Hola Mundo\Ejercicio sesion 3\obj\Debug\net6.0\Ejercicio sesion 3.dll
+C:\Users\Mau\source\repos\Hola Mundo\Ejercicio sesion 3\obj\Debug\net6.0\refint\Ejercicio sesion 3.dll
+C:\Users\Mau\source\repos\Hola Mundo\Ejercicio sesion 3\obj\Debug\net6.0\Ejercicio sesion 3.pdb
+C:\Users\Mau\source\repos\Hola Mundo\Ejercicio sesion 3\obj\Debug\net6.0\Ejercicio sesion 3.genruntimeconfig.cache
+C:\Users\Mau\source\repos\Hola Mundo\Ejercicio sesion 3\obj\Debug\net6.0\ref\Ejercicio sesion 3.dll
