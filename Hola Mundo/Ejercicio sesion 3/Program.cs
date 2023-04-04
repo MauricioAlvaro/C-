@@ -1,5 +1,5 @@
 ﻿//While
-/*Console.WriteLine("Ingrese un numero:");
+Console.WriteLine("Ingrese un numero:");
 int numero = Convert.ToInt32(Console.ReadLine());
 int a = 1;
 while (a <= 10)
@@ -25,7 +25,7 @@ do
     }
 } while (num != 0);
 Console.WriteLine("Números Positivos :" + pos);
-Console.WriteLine("Números Negativos :" + neg);*/
+Console.WriteLine("Números Negativos :" + neg);
 //For
 Console.WriteLine("Ingresa 4 datos");
 Console.Write("Ingresa la cantidad :");
